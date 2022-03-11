@@ -28,7 +28,7 @@ public class Runner {
 		// Get the length of the array list
 		System.out.println("The length is: " + listOfStrings.size());
 		
-		
+		// Clears the array list of all values
 		listOfStrings.clear();
 		System.out.println(listOfStrings);
 	}
