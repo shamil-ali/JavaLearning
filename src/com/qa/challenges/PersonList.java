@@ -33,4 +33,6 @@ public class PersonList {
 			System.out.println(listOfPeople.get(i));
 		}
 	}
+	
+//	public void search(String fir)
 }
